@@ -7,6 +7,7 @@ npm install coffee-script -g
 npm install backbone
 npm install underscore
 coffee Animal.coffee
+node sample.js
 
 Alternatively, remove the first two lines and run it in a browser with underscore and backbone loaded.
 
